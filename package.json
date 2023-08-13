@@ -1,0 +1,146 @@
+{
+	"name": "ef-themes",
+	"displayName": "Ef-Themes",
+	"publisher": "anhsirk0",
+    "license": "GPL-3.0-or-later",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "ef-autumn",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-autumn.json"
+			},
+			{
+				"label": "ef-bio",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-bio.json"
+			},
+			{
+				"label": "ef-cherie",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-cherie.json"
+			},
+			{
+				"label": "ef-cyprus",
+				"uiTheme": "vs",
+				"path": "./themes/ef-cyprus.json"
+			},
+			{
+				"label": "ef-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-dark.json"
+			},
+			{
+				"label": "ef-day",
+				"uiTheme": "vs",
+				"path": "./themes/ef-day.json"
+			},
+			{
+				"label": "ef-deuteranopia-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-deuteranopia-dark.json"
+			},
+			{
+				"label": "ef-deuteranopia-light",
+				"uiTheme": "vs",
+				"path": "./themes/ef-deuteranopia-light.json"
+			},
+			{
+				"label": "ef-duo-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-duo-dark.json"
+			},
+			{
+				"label": "ef-duo-light",
+				"uiTheme": "vs",
+				"path": "./themes/ef-duo-light.json"
+			},
+			{
+				"label": "ef-elea-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-elea-dark.json"
+			},
+			{
+				"label": "ef-elea-light",
+				"uiTheme": "vs",
+				"path": "./themes/ef-elea-light.json"
+			},
+			{
+				"label": "ef-frost",
+				"uiTheme": "vs",
+				"path": "./themes/ef-frost.json"
+			},
+			{
+				"label": "ef-kassio",
+				"uiTheme": "vs",
+				"path": "./themes/ef-kassio.json"
+			},
+			{
+				"label": "ef-light",
+				"uiTheme": "vs",
+				"path": "./themes/ef-light.json"
+			},
+			{
+				"label": "ef-maris-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-maris-dark.json"
+			},
+			{
+				"label": "ef-maris-light",
+				"uiTheme": "vs",
+				"path": "./themes/ef-maris-light.json"
+			},
+			{
+				"label": "ef-night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-night.json"
+			},
+			{
+				"label": "ef-spring",
+				"uiTheme": "vs",
+				"path": "./themes/ef-spring.json"
+			},
+			{
+				"label": "ef-summer",
+				"uiTheme": "vs",
+				"path": "./themes/ef-summer.json"
+			},
+			{
+				"label": "ef-symbiosis",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-symbiosis.json"
+			},
+			{
+				"label": "ef-trio-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-trio-dark.json"
+			},
+			{
+				"label": "ef-trio-light",
+				"uiTheme": "vs",
+				"path": "./themes/ef-trio-light.json"
+			},
+			{
+				"label": "ef-tritanopia-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-tritanopia-dark.json"
+			},
+			{
+				"label": "ef-tritanopia-light",
+				"uiTheme": "vs",
+				"path": "./themes/ef-tritanopia-light.json"
+			},
+			{
+				"label": "ef-winter",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-winter.json"
+			}
+		]
+	}
+}
