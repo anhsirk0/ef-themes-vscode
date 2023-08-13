@@ -11,12 +11,12 @@ Clone the repo and place the contents into `~/.vscode/extensions/ef-themes`
 For OSS version users: place the contents into `~/.vscode-oss/extensions/ef-theme`   
 
 ```console
-git clone https://github.com/anhsirk0/ef-themes-vscode ~/.vscode/extensions/ef-themes
+git clone https://github.com/anhsirk0/ef-themes-vscode.git ~/.vscode/extensions/ef-themes
 ```
 
 For VSCodium/Code-OSS users
 ```console
-git clone https://github.com/anhsirk0/ef-themes-vscode ~/.vscode-oss/extensions/ef-themes
+git clone https://github.com/anhsirk0/ef-themes-vscode.git ~/.vscode-oss/extensions/ef-themes
 ```
 
 ### Pictures
